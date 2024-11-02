@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HamdiMohamed2000
-- 👀 I’m interested in Android applications development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Flutter applications development
 - 💞️ I’m looking to collaborate on a software development company
 - 📫 How to reach me Gmail : Hamde25177@gmail.com
 
